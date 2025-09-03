@@ -1,4 +1,4 @@
-# aniekan-inyang
+
 # Hey, I'm Aniekan 👋  
 First-gen Builder in Tech & AI | Rising Sophomore @ Clarkson University | Creating intelligent, useful, and scalable things 💡  
 
